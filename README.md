@@ -5,7 +5,7 @@ Junior Software Engineer passionate about creating user-centered applications th
 ## Projects
 ### Here are the recent projects I've worked on...
 - [Linkedin Post Generator](https://github.com/DanielO15/translator)
-- [Lights Out :bulb:](https://github.com/Daniel-O-dev/Lights-Out.git)
+- [Lights Out :bulb:](https://github.com/DanielO15/Lights-Out)
 
 
 # ![](https://komarev.com/ghpvc/?username=your-github-Daniel-O-dev&style=for-the-badge&color=1C7A7F)
