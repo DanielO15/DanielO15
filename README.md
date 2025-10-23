@@ -10,5 +10,5 @@ Junior Software Engineer passionate about creating user-centered applications th
 
 # ![](https://komarev.com/ghpvc/?username=your-github-Daniel-O-dev&style=for-the-badge&color=1C7A7F)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-O-dev&theme=github_dark" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielO15&theme=github_dark" />
 </a>
